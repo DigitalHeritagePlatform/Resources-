@@ -31,6 +31,11 @@ The International Image Interoperability Framework (IIIF) is a set of shared app
 ## annotation
 
 http://www.openannotation.org/
+
 https://www.w3.org/TR/annotation-model/
+
 https://www.w3.org/TR/annotation-protocol/
+
 https://www.w3.org/TR/annotation-vocab/
+
+
